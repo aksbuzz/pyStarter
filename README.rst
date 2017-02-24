@@ -2,43 +2,24 @@
 **What is it?**
 ****************
 
-TODO...
+A starter directory structure for python application
 
 
 **Install**
 ***********
 
-You can install pyerail using:
-
-.. code ::
-
-	$ pip3 install _todo_
 
 Build from source
 
 .. code ::
 	
-	$ git clone https://github.com/aksbuzz/_todo_.git
-
-	$ cd _todo_
-
-	$ make
+	$ git clone https://github.com/aksbuzz/pyStarter.git
 
 
 **Usage**
 *********
 
-Creating an instance object of class
-
-.. code :: python
-	
-	>>> 
-	>>> 
-
-
-.. code :: python
-	
-	>>> 
+todo.....
 
 
 
